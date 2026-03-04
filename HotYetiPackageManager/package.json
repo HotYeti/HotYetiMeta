@@ -1,0 +1,21 @@
+{
+  "displayName": "Hot Yeti Package Manager",
+  "name": "com.hotyetistudio.packagemanager",
+  "version": "1.1.1",
+  "unity": "6000.3",
+  "description": "Hot Yeti Package Manager",
+  "category": "Hot Yeti",
+  "keywords": [
+    "Hot",
+    "Yeti",
+    "Package",
+    "Management"
+  ],
+  "dependencies": {},
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Hot Yeti Studio",
+    "url": "https://hotyetistudio.com",
+    "email": "support@hotyetistudio.com"
+  }
+}

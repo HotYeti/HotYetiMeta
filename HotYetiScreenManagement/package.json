@@ -1,0 +1,23 @@
+{
+  "displayName": "Hot Yeti Screen Management",
+  "name": "com.hotyetistudio.screenmanagement",
+  "version": "1.5.4",
+  "unity": "6000.3",
+  "description": "Hot Yeti Screen Management Package",
+  "category": "Screen Management",
+  "keywords": [
+    "Hot",
+    "Yeti",
+    "Screen",
+    "Management"
+  ],
+  "dependencies": {
+    "com.hotyetistudio.essentials": "1.0.0"
+  },
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Hot Yeti Studio",
+    "url": "https://hotyetistudio.com",
+    "email": "support@hotyetistudio.com"
+  }
+}

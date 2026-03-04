@@ -1,0 +1,20 @@
+{
+  "displayName": "Hot Yeti Essentials",
+  "name": "com.hotyetistudio.essentials",
+  "version": "1.5.1",
+  "unity": "6000.3",
+  "description": "Hot Yeti Essentials Package",
+  "category": "Essentials",
+  "keywords": [
+    "Hot",
+    "Yeti",
+    "Essentials"
+  ],
+  "dependencies": {},
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Hot Yeti Studio",
+    "url": "https://hotyetistudio.com",
+    "email": "support@hotyetistudio.com"
+  }
+}

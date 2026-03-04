@@ -1,0 +1,26 @@
+{
+  "displayName": "Hot Yeti SDK",
+  "name": "com.hotyetistudio.sdk",
+  "version": "1.1.4",
+  "unity": "6000.3",
+  "description": "Hot Yeti SDK Package",
+  "category": "SDK",
+  "keywords": [
+    "Hot",
+    "Yeti",
+    "SDK"
+  ],
+  "dependencies": {
+    "com.google.external-dependency-manager": "1.2.186",
+    "com.gameanalytics.sdk": "6.0.2",
+    "com.unity.services.levelplay": "8.8.0",
+    "com.unity.ads.ios-support": "1.2.0",
+    "com.unity.purchasing": "4.12.2"
+  },
+  "unityRelease": "6f1",
+  "author": {
+    "name": "Hot Yeti Studio",
+    "url": "https://hotyetistudio.com",
+    "email": "support@hotyetistudio.com"
+  }
+}
