@@ -11,8 +11,8 @@
     "SDK"
   ],
   "dependencies": {
-    "com.google.external-dependency-manager": "1.2.186",
-    "com.gameanalytics.sdk": "6.0.2",
+    "com.google.external-dependency-manager": "1.2.187",
+    "com.gameanalytics.sdk": "7.10.6",
     "com.unity.services.levelplay": "8.8.0",
     "com.unity.ads.ios-support": "1.2.0",
     "com.unity.purchasing": "4.12.2"
