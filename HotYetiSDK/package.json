@@ -1,7 +1,7 @@
 {
   "displayName": "Hot Yeti SDK",
   "name": "com.hotyetistudio.sdk",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "unity": "6000.3",
   "description": "Hot Yeti SDK Package",
   "category": "SDK",
@@ -15,9 +15,11 @@
     "com.gameanalytics.sdk": "7.10.6",
     "com.unity.services.levelplay": "8.8.0",
     "com.unity.ads.ios-support": "1.2.0",
-    "com.unity.purchasing": "4.12.2",
+    "com.unity.purchasing": "4.12.2"
+},
+  "gitDependencies": {
     "com.facebook": "https://github.com/HotYeti/FacebookSDK.git"
-  },
+},
   "unityRelease": "6f1",
   "author": {
     "name": "Hot Yeti Studio",
