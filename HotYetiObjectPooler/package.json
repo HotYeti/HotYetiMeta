@@ -1,8 +1,8 @@
 {
   "displayName": "Hot Yeti Object Pooler",
   "name": "com.hotyetistudio.objectpooler",
-  "version": "1.2.1",
-  "unity": "2022.3",
+  "version": "1.2.2",
+  "unity": "6000.3",
   "description": "Hot Yeti Object Pooler Package",
   "category": "Tools",
   "keywords": [
@@ -11,14 +11,11 @@
     "Object",
     "Pooler"
   ],
-  "dependencies": {
-    "com.hotyetistudio.essentials": "1.0.0"
-  },
-  "unityRelease": "1f1",
+  "dependencies": {"com.hotyetistudio.essentials": "1.0.0"},
+  "unityRelease": "6f1",
   "author": {
     "name": "Hot Yeti Studio",
     "url": "https://hotyetistudio.com",
     "email": "support@hotyetistudio.com"
-  },
-  "_fingerprint": "839c926313c23661ad8b1b06a2945430230112f7"
+  }
 }
