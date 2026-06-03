@@ -1,7 +1,7 @@
 {
   "displayName": "Hot Yeti SDK",
   "name": "com.hotyetistudio.sdk",
-  "version": "1.3.7",
+  "version": "1.3.8",
   "unity": "6000.3",
   "description": "Hot Yeti SDK Package",
   "category": "SDK",
@@ -11,7 +11,7 @@
     "SDK"
   ],
   "dependencies": {
-    "com.hotyetistudio.essentials": "1.5.7",
+    "com.hotyetistudio.essentials": "1.5.8",
     "com.google.external-dependency-manager": "1.2.187",
     "com.gameanalytics.sdk": "7.10.6",
     "com.unity.services.levelplay": "9.4.1",
