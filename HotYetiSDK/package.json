@@ -1,7 +1,7 @@
 {
   "displayName": "Hot Yeti SDK",
   "name": "com.hotyetistudio.sdk",
-  "version": "1.4.8",
+  "version": "1.4.9",
   "unity": "6000.3",
   "description": "Hot Yeti SDK Package",
   "category": "SDK",
@@ -12,13 +12,13 @@
   ],
   "dependencies": {
     "com.hotyetistudio.essentials": "1.5.8",
-    "com.google.external-dependency-manager": "1.2.187",
+    "com.hotyetistudio.screenmanagement": "1.5.6",
     "com.gameanalytics.sdk": "7.10.6",
+    "com.unity.external-dependency-manager": "2.1.1",
     "com.unity.services.levelplay": "9.4.1",
     "com.unity.ads.ios-support": "1.0.1",
-    "com.unity.purchasing": "5.3.0",
-    "com.hotyetistudio.screenmanagement": "1.5.6"
-},
+    "com.unity.purchasing": "5.3.0"
+  },
   "unityRelease": "6f1",
   "author": {
     "name": "Hot Yeti Studio",
