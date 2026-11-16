@@ -1,7 +1,7 @@
 {
   "displayName": "Hot Yeti Essentials",
   "name": "com.hotyetistudio.essentials",
-  "version": "1.5.12",
+  "version": "1.6.0",
   "unity": "6000.3",
   "description": "Hot Yeti Essentials Package",
   "category": "Essentials",
@@ -10,7 +10,9 @@
     "Yeti",
     "Essentials"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "com.unity.ugui": "2.0.0"
+  },
   "unityRelease": "6f1",
   "author": {
     "name": "Hot Yeti Studio",
